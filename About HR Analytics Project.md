@@ -5,4 +5,4 @@ Some interesting things used in this project
 -Build Relationships between 4 tables
 -Finding data through new measures and using DAX functions
 
-I did Data Extaction, Cleaning, sorting & formating for better visualization
+I did Data Extraction, Cleaning, sorting & formatting for better visualization
